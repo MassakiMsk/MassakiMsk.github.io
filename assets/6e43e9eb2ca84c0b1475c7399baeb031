@@ -47,7 +47,7 @@
     "purchaseTotalDiscount": "Total de Descontos Obtidos"
   },
   "product": {
-    "addTolist": "Adicionar à lista",
+    "addToList": "Adicionar à lista",
     "close": "Fechar",
     "add": "Adicionar em",
     "added": "Produto adicionado a lista",
