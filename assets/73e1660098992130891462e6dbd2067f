@@ -87,8 +87,7 @@
       "totalPrice": "Valor total:",
       "discounts": "Descontos:",
       "tax": "Cupom Fiscal (.pdf)",
-      "items": "itens:",
-      "category": "Categoria"
+      "items": "itens:"
     }
   },
   "list": {
